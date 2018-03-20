@@ -1,2 +1,2 @@
-# my.head
-The head tag elements basic recommended.
+# My HEAD
+🏷 The `<head>` tag elements basic recommended.
