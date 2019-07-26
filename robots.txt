@@ -6,4 +6,10 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
+User-agent: *
+Disallow: /content/*.txt$
+Disallow: /kirby/
+Disallow: /site/
+Disallow: /panel/
+
 Sitemap: http://www.example.com/sitemap.xml
