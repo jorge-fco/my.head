@@ -13,6 +13,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
+<!--Reference: https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/-->
 <meta name="theme-color" content="#ecd96f" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0b3e05" media="(prefers-color-scheme: dark)">
 ```
