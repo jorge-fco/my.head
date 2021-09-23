@@ -2,7 +2,12 @@
 🏷 The `<head>` tag elements basic recommended.
 
 ### Canonical
+```html
 <link rel="canonical" href="" />
+```
+### Google
+
+### Schema
 
 ### Facebook
 ```html
@@ -18,3 +23,5 @@
 	<meta property="og:locale" content="es_ES">
 	<meta name="facebook-domain-verification" content="" />
 ```
+
+### Twitter
