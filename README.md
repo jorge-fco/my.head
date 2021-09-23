@@ -7,6 +7,16 @@
 ```
 ### Google
 
+### iOS
+```html
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="theme-color" content="#ecd96f" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b3e05" media="(prefers-color-scheme: dark)">
+```
+
 ### Schema
 
 ### Facebook
