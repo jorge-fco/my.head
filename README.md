@@ -1,6 +1,9 @@
 # My HEAD
 🏷 The `<head>` tag elements basic recommended.
 
+### Canonical
+<link rel="canonical" href="" />
+
 ### Facebook
 ```html
 	<meta property="fb:app_id" content="1234567890>">
